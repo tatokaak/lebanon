@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,Ar: otv
+https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Ar: al manar
+https://manar.live/x.smil/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Ar: al mayadeen
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Ar: future tv
+http://178.132.3.162:88/Future_TV/video.m3u8?token=test&checkedby:iptvcat.com
+#EXTINF:-1,Ar: lbc
+http://178.132.3.162:88/LBC_SAT/video.m3u8?token=test&checkedby:iptvcat.com
+#EXTINF:-1,Ar: lbc international
+http://51.15.3.161:8080/LDC/index.m3u8?token=test&checkedby:iptvcat.com
+#EXTINF:-1,Ar: mtv
+http://178.132.3.162:88/MTV_Lebanon/video.m3u8?token=test&checkedby:iptvcat.com
+#EXTINF:-1,Ar: nour sat
+https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8?checkedby:iptvcat.com
